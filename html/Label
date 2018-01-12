@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Label - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Label" class="currentChild" href="Label">Label</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A strip of paper or other <a title="Substrate" href="Substrate">substrate</a> which can be attached—typically with some form of <a title="Adhesive" href="Adhesive">adhesive</a>—to another surface for purposes of identification. A label can be <a title="face-cut label" class="nonexistent" href="http://printwiki.org/face-cut_label">face-cut label</a>, <a title="laid-in label" class="nonexistent" href="http://printwiki.org/laid-in_label">laid-in label</a>, <a title="Pressure-Sensitive Label" href="Pressure-Sensitive_Label">pressure-sensitive label</a>, <a title="Gummed Label" href="Gummed_Label">gummed label</a>, <a title="Punched-Out Label" href="Punched-Out_Label">punched-out label</a>, <a title="Roll Label" href="Roll_Label">roll label</a>, <a title="Sheet Label" href="Sheet_Label">sheet label</a>, <a title="Split-Top Label" href="Split-Top_Label">split-top label</a>, <a title="tamper proof label" class="nonexistent" href="http://printwiki.org/tamper_proof_label">tamper proof label</a>, <a title="tarnish proof label" class="nonexistent" href="http://printwiki.org/tarnish_proof_label">tarnish proof label</a>, <a title="Cheshire Label" href="Cheshire_Label">Cheshire label</a>, <a title="coated one-side label" class="nonexistent" href="http://printwiki.org/coated_one-side_label">coated one-side label</a>, <a title="North-South Label" href="North-South_Label">north-south label</a>, or <a title="Transparent Label" href="Transparent_Label">transparent label</a>. 
+</p>
+<p id="l3">
+[One or more characters, within or attached to a set of data, that contains information about the set, including its identification. 
+</p>
+<p id="l5">
+A set of symbols or a name used to identify or describe an item, record, message, file, or storage address. 
+</p>
+<p id="l7">
+An identification written electronically at the beginning of a magnetic tape to describe its content or name.] 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-859400-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

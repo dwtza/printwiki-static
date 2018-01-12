@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Blister - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Blister" class="currentChild" href="Blister">Blister</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A paper defect that occurs during the <a title="Heatset Drying" href="Heatset_Drying">heatset drying</a> of coated papers, characterized by an oval-shaped bubble that protrudes from both sides of the paper. Blistering is caused by moisture trapped in paper evaporating rapidly under the increased temperature of the heatset dryer. This rapid evaporation causes the water vapor to expand. Coated paper can lack sufficient porosity to allow the water vapor to diffuse gently through the paper surface, and in some cases the water vapor will burst the paper's internal structure apart. Blistering can occur in either printed or non-printed areas, but never occurs in uncoated papers. The problem of blistering used to be a fairly common one, but recent improvements in papermaking have reduced its incidence significantly. To prevent blistering, the <a title="Moisture Content" href="Moisture_Content">moisture content</a> of the paper used in heatset drying must be lower than that normally used for sheetfed offset printing, and the <a title="coatings" class="nonexistent" href="http://printwiki.org/coatings">coatings</a> themselves must be porous enough to enable the water vapor buildup to diffuse through the surface of the paper. Blistering also occurs less in papers with lower <a title="basis weights" class="nonexistent" href="http://printwiki.org/basis_weights">basis weights</a>, as lighter paper has less moisture than heavier paper. Blistering is also rarely a problem on <a title="Coated One Side" href="Coated_One_Side">coated one side</a> papers. A paper's ability to keep from blistering is called <a title="Blister Resistance" href="Blister_Resistance">blister resistance</a>. A blister is also known as an <a title="Air Bell" href="Air_Bell">air bell</a> and a <a title="Foam Mark" href="Foam_Mark">foam mark</a>. (See also <a title="Blister Resistance" href="Blister_Resistance">Blister Resistance</a> and <a title="Fiber Puffing" href="Fiber_Puffing">Fiber Puffing</a>.) 
+</p>
+<p id="l3">
+In <a title="Binding and Finishing" href="Binding_and_Finishing">binding and finishing</a>, the term <em>blister</em> refers to a small spot on a cloth book cover where the glue has failed to adhere the cloth covering to the underlying board. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-859400-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

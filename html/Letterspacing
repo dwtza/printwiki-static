@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Letterspacing - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Letterspacing" class="currentChild" href="Letterspacing">Letterspacing</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, the space between typeset letters or other characters. There are two varieties of letterspacing: positive and negative. 
+</p>
+<p id="l3">
+<strong>Positive Letterspacing</strong>. Adding space between letters in uniform increments for one or more of the following reasons: 
+</p>
+<p id="l5">
+1. Automatic letterspacing, activated so that word spaces are not too wide during <a title="Justification" href="Justification">justification</a>. Called into action when word spaces reach a preset maximum amount. This approach interrupts the even texture of text typography and impairs legibility. 
+</p>
+<p id="l7">
+2. Selective letterspacing for certain character combinations. In serif type, the serifs provide natural boundaries against negative letterspacing (serifs should not overlap). More caution is necessary with sans serif type, although when too tight, certain letter combinations (such as "rn" or "ol") may flow together (to look like "m" or "d"). 
+</p>
+<p id="l9">
+3. Word letterspacing for aesthetic reasons, such as all-capital titles or headings. 
+</p>
+<p id="l11">
+All in all, positive letterspacing is not recommended, because of poor legibility, although aesthetic considerations may prevail. 
+</p>
+<p id="l13">
+<strong>Negative Letterspacing</strong>. Also known as <a title="Minus Letterspacing" href="Minus_Letterspacing">minus letterspacing</a>, subtracting space equally from between all letters in small units of space for one or more of the following reasons: 
+</p>
+<p id="l15">
+1. Tight spacing (<a title="White Space Reduction" href="White_Space_Reduction">white space reduction</a>) is desirable for artistic reasons. 
+</p>
+<p id="l17">
+2. Selective subtraction (<a title="Kerning" href="Kerning">kerning</a>) is required for certain character combinations. 
+</p>
+<p id="l19">
+When tight type is reduced photographically, letters also will flow together, perhaps necessitating an alteration of letterspacing. 
+</p>
+<p id="l21">
+The concept of <a title="Tracking" href="Tracking">tracking</a> is simply presetting of <a title="Universal Negative Letterspacing" href="Universal_Negative_Letterspacing">universal negative letterspacing</a> into degrees of spacing to allow type specifiers to select the desired "look" or "color" for the typeface and size in use. The variations, in order of increasing space, are touching, very tight, tight, normal, open (tv), or open (foundry, a greater degree of letterspacing than open [tv]). 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-859400-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

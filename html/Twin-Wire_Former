@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Twin-Wire Former - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Twin-Wire Former" class="currentChild" href="Twin-Wire_Former">Twin-Wire Former</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A variation on the traditional <a title="Fourdrinier" href="Fourdrinier">fourdrinier</a> papermaking machine utilizing two wires rather than one in its <a title="Forming Section" href="Forming_Section">forming section</a>. In conventional fourdrinier machine, the papermaking <a title="Furnish" href="Furnish">furnish</a> is deposited on a single continuous wire mesh belt, which drains the water from the furnish through the bottom. The result of this process is that the side of the paper <a title="Web" href="Web">web</a> that dries against the wire—called the <a title="Wire Side" href="Wire_Side">wire side</a>—has a different texture than the top side of the web—called the <a title="Felt Side" href="Felt_Side">felt side</a>. This <a title="Two-Sidedness" href="Two-Sidedness">two-sidedness</a> of paper has undesirable consequences in many types of printing. A twin-wire former sandwiches the papermaking furnish through two wire mesh belts, allowing drainage from the top and bottom of the furnish, producing paper with two wire sides. Alternate variations, such as <a title="Top-Wire Former" href="Top-Wire_Former">top-wire former</a>s, also employ the sandwiching of paper fibers between two wires as a means of increasing the likesidedness of paper. (See <a title="Fourdrinier" href="Fourdrinier">Fourdrinier</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-859400-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

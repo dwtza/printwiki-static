@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Serif - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Serif" class="currentChild" href="Serif">Serif</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, an all-inclusive term for characters that have a line crossing the free end of a stroke. The term <em>serif</em> refers to both that finishing line, and to characters and <a title="Typeface" href="Typeface">typeface</a>s that have them. 
+</p>
+<p id="l3">
+It is said that the Romans invented the serif as a solution to the technical problem of getting a chisel to cut a neat, clean end to a character. Later, it became an emulation of handwriting, with flat "pens" producing thick and thin curves, based on the angle of the pen. 
+</p>
+<p id="l5">
+Serif characters tend to be easier to read, as they provide a horizontal guideline for the eye to "tie" the letters of a word together. It is generally better to use serif faces (rather than <a title="Sans Serif" href="Sans_Serif">sans serif</a> faces) when typesetting long stretches of copy, such as books with few illustrations, since serif faces cause less fatigue of the eyes. According to one study, there is reader preference for, and better legibility of, serif faces. Half-serifs on horizontal <a title="Arm" href="Arm">arm</a>s are sometimes called <a title="Beak" href="Beak">beak</a>s, and serifs at the end of <a title="Arc" href="Arc">arc</a>s are called <a title="barb" class="nonexistent" href="http://printwiki.org/barb">barb</a>s. A character exhibiting a curvature of the transition from the main stroke to the serif is referred to as <a title="Bracketed" href="Bracketed">bracketed</a>. A character in which the angle from the main stroke to the serif is a right angle is described as <a title="Square Serif" href="Square_Serif">square serif</a>. See also <a title="Sans Serif" href="Sans_Serif">Sans Serif</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-859400-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

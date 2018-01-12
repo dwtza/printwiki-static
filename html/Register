@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Register - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Register" class="currentChild" href="Register">Register</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The degree to which successively-printed <a title="Color" href="Color">color</a>s (or images) are accurately positioned with respect to each other. Accurate register ensures that a final printed piece has the effect of a "single image," with no color gaps or overlaps. Register is initially set by correct exposure, positioning, and mounting of printing plates (or other image carriers), but proper register on the printed piece can be mitigated against by many different variables, such as dimensional changes in the <a title="Substrate" href="Substrate">substrate</a> due to changes in <a title="Moisture Content" href="Moisture_Content">moisture content</a> and/or mechanical stretching, deficiencies in the press feeding section, web tension, or changes in the image-carrying portions of the press, such as blanket compression (in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>) or plate swelling (in <a title="Flexography" href="Flexography">flexography</a>), among many other factors. 
+</p>
+<p id="l3">
+Depending on the application, accuracy of registration may be more or less necessary. See <a title="Absolute Register" href="Absolute_Register">Absolute Register</a>, <a title="Close Register" href="Close_Register">Close Register</a>, <a title="Commercial Register" href="Commercial_Register">Commercial Register</a>, <a title="Hairline Register" href="Hairline_Register">Hairline Register</a>, <a title="Lap Register" href="Lap_Register">Lap Register</a>, and <a title="Loose Register" href="Loose_Register">Loose Register</a>. Inaccuracies in registration are known as <a title="Misregister" href="Misregister">misregister</a>. <a title="Process Color" href="Process_Color">Process color</a> printing is usually performed utilizing <a title="Register Marks" href="Register_Marks">register marks</a>, small shapes on successive plates which aid in the setting of proper register. 
+</p>
+<p id="l5">
+'Register<em> is also used to refer to a storage area in a computer. See <a title="Data Register" href="Data_Register">Data Register</a>. 
+</p>
+<p id="l7">
+[In C, variables may be declared as register, instructing the compiler to keep the value of these variables in the register of the CPU rather than in memory, where variables are conventionally stored. Operations performed on register variables are therefore very fast.] 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-859400-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

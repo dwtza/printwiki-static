@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Book Paper - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Book Paper" class="currentChild" href="Book_Paper">Book Paper</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A <a title="Grade" href="Grade">grade</a> of paper used in the printing of text and trade books, as well as a variety of other types of printed materials. They are similar to <a title="Text Paper" href="Text_Paper">text paper</a>, but are usually less expensive, and come in a wider variety of <a title="Basis Weight" href="Basis_Weight">basis weight</a>s and <a title="Bulk" href="Bulk">bulk</a>s, which aids in choosing the right thickness of paper depending on the desired ultimate book thickness (see <a title="Bulk" href="Bulk">Bulk</a>). Finishes range from <a title="antique" class="nonexistent" href="http://printwiki.org/antique">antique</a> to <a title="smooth" class="nonexistent" href="http://printwiki.org/smooth">smooth</a>. There are also <a title="Coated Book Paper" href="Coated_Book_Paper">coated book paper</a>s and <a title="Groundwood Book Papers" href="Groundwood_Book_Papers">groundwood book papers</a>, depending on the finish and cost desired. 
+</p>
+<p id="l3">
+The <a title="Basic Size" href="Basic_Size">basic size</a> of book papers is 25 x 38, and come in <a title="Basis Weight" href="Basis_Weight">basis weight</a>s of 30, 40, 45, 50, 60, 70, 80, 90, 100, and 120-pound. <a title="Standard Size" href="Standard_Size">Standard size</a>s are 17H x 22H, 19 x 25, 23 x 29, 23 x 35, 24 x 36, 25 x 38, 28 x 44, 32 x 44, 35 x 45, 38 x 50, and 42 x 58. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-859400-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

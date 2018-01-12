@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Emphasis - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Emphasis" class="currentChild" href="Emphasis">Emphasis</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, the use of variations in style to emphasize information. Although italic type is the most common means of emphasis, bold type is also effective (although should be used sparingly). Although underlining—the only means available on a typewriter—is redundant in typography, it is occasionally used for aesthetic or stylistic reasons. All caps can also be used. Variations on and combinations of the above are also possible, such as: 
+</p>
+<p id="l5">
+ALL CAPITALS 
+</p>
+<p id="l7">
+small capitals"] 
+</p>
+<p id="l9">
+Caps &amp; Small Caps"] 
+</p>
+<p id="l11">
+<u>Underlined</u> 
+</p>
+<span id="head-1616e2e5405e69c4e3914c67c644a9bd3ac00956"><h4 id="l13">Italic</h4></span>
+<p id="l15">
+'ITALIC CAPS' 
+</p>
+<p id="l17">
+'italic small caps' 
+</p>
+<p id="l19">
+'Italic Caps &amp; Small Caps' 
+</p>
+<p id="l21">
+<strong>Bold</strong> 
+</p>
+<p id="l23">
+<strong>BOLD CAPS</strong> 
+</p>
+<p id="l25">
+<strong>Bold Caps &amp; Small Caps</strong> 
+</p>
+<p id="l27">
+<strong>bold small caps</strong> 
+</p>
+<p id="l29">
+<a title="Bold Italic" class="nonexistent" href="http://printwiki.org/Bold_Italic">Bold Italic</a> 
+</p>
+<p id="l31">
+<a title="ITALIC BOLD CAPS" class="nonexistent" href="http://printwiki.org/ITALIC_BOLD_CAPS">ITALIC BOLD CAPS</a> 
+</p>
+<p id="l33">
+<a title="Italic Bold Caps & Small Caps" class="nonexistent" href="http://printwiki.org/Italic_Bold_Caps_%26_Small_Caps">Italic Bold Caps &amp; Small Caps</a> 
+</p>
+<p id="l35">
+<a title="italic bold small caps" class="nonexistent" href="http://printwiki.org/italic_bold_small_caps">italic bold small caps</a> 
+</p>
+<p id="l37">
+Some writers tend to use all of these forms of emphasis, sometimes in the same paragraph. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-859400-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

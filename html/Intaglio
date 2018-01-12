@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Intaglio - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Intaglio" class="currentChild" href="Intaglio">Intaglio</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Term for any printing or imaging process in which image areas are etched into a surface, filled with ink, and transferred to a <a title="Substrate" href="Substrate">substrate</a>. Although derived from older engraving methods, modern versions of intaglio printing include <a title="Gravure" href="Gravure">gravure</a> and <a title="copperplate printing" class="nonexistent" href="http://printwiki.org/copperplate_printing">copperplate printing</a>. 
+</p>
+<p id="l3">
+The word <em>intaglio</em> is an Italian term (and is more properly pronounced "in-TAL-yo" although the pronunciation "in-TAG-lee-oh" has become prevalent and accepted) meaning "engraved." The earliest uses of intaglio date back perhaps to the ancient Sumerians in the fourth millennium B.C.E. who produced engraved seals. Intaglio was used in China to print books, the text being cut into wood blocks, inked, and transferred to paper. In the West, the practice survived through the Roman era, and declined after the fall of Rome. It was revived again in the 15th century and was the primary means of reproducing illustration matter, even after Gutenberg's <a title="Letterpress" href="Letterpress">letterpress</a>-based printing press was invented. Playing cards, religious prints, and other illustrations were produced using intaglio techniques, including newly-developed means of engraving images on metal plates. Until the development of gravure printing in the 19th century, intaglio remained almost entirely an artist's medium, perhaps best demonstrated in the engravings of the German Renaissance artist Albrecht Dürer. (See <a title="Printing" href="Printing">Printing</a> and <a title="Gravure" href="Gravure">Gravure</a>.) 
+</p>
+<p id="l5">
+The term <em>intaglio</em> is also used to refer to the engraved image or design itself. It is also used to refer to the pattern of cells engraved on a <a title="Flexographic" href="Flexographic">flexographic</a> press's <a title="Anilox Roller" href="Anilox_Roller">anilox roller</a>. 
+</p>
+<p id="l7">
+In <a title="Finishing" href="Finishing">finishing</a>, <a title="Die" href="Die">die</a>s used for <a title="Embossing" href="Embossing">embossing</a> or <a title="Foil Stamping" href="Foil_Stamping">foil stamping</a> may be <em>intaglio</em> dies, or have a depressed image area. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-859400-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

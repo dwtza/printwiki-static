@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Filter - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Filter" class="currentChild" href="Filter">Filter</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Photography" href="Photography">photography</a>, a plate of glass or gelatin of a particular <a title="Color" href="Color">color</a> placed between an original and the lens of a camera, used to separate out certain colors, thus allowing only certain other colors to register on the film. Filters—also called <a title="Color Filter" href="Color_Filter">color filter</a>s—are used to make <a title="Color Separation" href="Color_Separation">color separation</a>s, or four negatives that will be used to print the four <a title="Process Color" href="Process_Color">process color</a>s of <a title="Cyan" href="Cyan">cyan</a>, <a title="Magenta" href="Magenta">magenta</a>, <a title="Yellow" href="Yellow">yellow</a>, and <a title="Black" href="Black">black</a>.The original is thus photographed four times using different color filters. The choice of colors for the filters is based on <a title="Additive Color Theory" href="Additive_Color_Theory">additive color theory</a>; a blue filter is used to produce the yellow <a title="Printer" href="Printer">printer</a>; a green filter is used to produce the magenta printer; a red filter is used to produce the cyan printer; and a combination of all three filters is used to generate the <a title="Black Printer" href="Black_Printer">black printer</a>. See also <a title="Dichroic Filter" href="Dichroic_Filter">dichroic filter</a>. 
+</p>
+<p id="l3">
+In digital imaging, a <em>filter</em> is a software function (available as a native part of the image-processing application or as a <a title="Plug-In" href="Plug-In">plug-in</a>) that alters an image in a particular way, changing either the <a title="Color Balance" href="Color_Balance">color balance</a>, or adding special effects such as a "ripple" effect, a motion blur, etc. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-859400-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

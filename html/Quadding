@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Quadding - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Quadding" class="currentChild" href="Quadding">Quadding</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, another term for <em>placement</em>. The word comes from a short form of <em>quadrat</em>, a blank metal cube used for filling blank space in handset type. All type had to lock up, and this necessitated that lines with only one word on them, for example, be filled with nonprinting blanks. The blanks then positioned the type. For example, a line aligned at the left margin with blanks extending to the right margin was known as <a title="Quad Left" href="Quad_Left">quad left</a>. A line aligned at the right margin with blanks extending to the left margin was called <a title="Quad Right" href="Quad_Right">quad right</a>. A line centered between the two margins, with blank spaces extending both left and right was called <a title="Quad Center" href="Quad_Center">quad center</a>; the reverse, where one portion of a line aligned at the left while another aligned at the right, with blank spaces in the middle, was called <a title="Quad Middle" href="Quad_Middle">quad middle</a>. 
+</p>
+<p id="l3">
+Linecasters mechanized the process with semiautomatic attachments that filled the blank areas of a line with metal. These quadders were either mechanized, electric, or hydraulic. The popularity of the latter unit led to the use of the term <a title="Flush" href="Flush">flush</a> as a verb for positioning. Today, both flush and <a title="Quad" href="Quad">quad</a> are used interchangeably, although with the advent of desktop publishing, the term <em>quad</em> is being used less and less often. 
+</p>
+<p id="l5">
+The function of quadding always takes place on the <a title="Baseline" href="Baseline">baseline</a> between preset margins. The term <a title="Quad Lock" href="Quad_Lock">quad lock</a> describes the function of repetitive quadding to the same position. Thus, a <a title="Quad Center Lock" href="Quad_Center_Lock">quad center lock</a> indicates that every line ending with a return will be centered. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-859400-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+
