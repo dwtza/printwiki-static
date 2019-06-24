@@ -8,9 +8,9 @@
 
 <title>PrintWiki Project - PrintWiki</title>
 
-                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
-                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
-                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwiki.org.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwiki.org.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwiki.org.s3.amazonaws.com/style.css">
                 
 
 </head>
@@ -21,7 +21,7 @@
 <table class="logo">
 <tr>
 <td class="logo_banner">
-<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwiki.org.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
 </td>
 </tr>
 </table>
@@ -50,21 +50,9 @@ PrintWiki strives to provide a comprehensive, open-source knowledge base of info
 </p>
 <span id="head-90ccd6497400b5576aeca1bd94af74aae1e0a250"><h3 id="l4">History</h3></span>
 <p id="l6">
-The project was started in the late 2006. In November 2007 the project announced a number of improvements to the Website, and addition of the Encyclopeida of Graphic Communications by Frank Romano which was donated to the PrintWiki Project by Frank Romano and the School of Print Media. 
+The project was started in the late 2006. In November 2007 the project announced a number of improvements to the Website, and addition of the Encyclopeida of Graphic Communications by Frank Romano which was donated to the PrintWiki Project by Frank Romano and the School of Print Media. As of January 2015 the wiki is in a read-only static archive state.
 </p>
-<span id="head-e5fb6291a5a7894579a57878bbbe0064eadc1953"><h3 id="l9">Advisory Board</h3></span>
-<p id="l11">
-The PrintWiki Project is lead by an advisory board that oversees its operations and directs project initiatives. The current advisory board consists of: 
-</p>
-<p id="l13">
-Adam Dewitz, PrintWiki Project founder 
-</p>
-<p id="l15">
-Michael Woods 
-</p>
-<p id="l17">
-Michael Riordan, Assistant Professor, School of Print Media Rochester Institute of Technology 
-</p>
+
 <div style="clear: both;"></div></div>
 
 

@@ -8,9 +8,9 @@
 
 <title>Butt Label - PrintWiki</title>
 
-                <link rel="stylesheet" type="text/css" media="all" href="http://printwikiorg.s3.amazonaws.com/common.css">
-                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/layout.css">
-                <link rel="stylesheet" type="text/css" media="screen" href="http://printwikiorg.s3.amazonaws.com/style.css">
+                <link rel="stylesheet" type="text/css" media="all" href="http://printwiki.org.s3.amazonaws.com/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwiki.org.s3.amazonaws.com/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="http://printwiki.org.s3.amazonaws.com/style.css">
                 
 
 </head>
@@ -21,7 +21,7 @@
 <table class="logo">
 <tr>
 <td class="logo_banner">
-<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwikiorg.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+<a class="nostyle" href="Front_Page"><img align="middle" src="http://printwiki.org.s3.amazonaws.com/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
 </td>
 </tr>
 </table>
